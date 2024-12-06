@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    /* background-color: hsl(20, 50%, 98%); */
+    background-color: hsl(13, 31%, 94%);
+    font-family: "Red Hat Text", sans-serif;
+}
